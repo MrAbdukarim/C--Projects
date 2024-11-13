@@ -34,11 +34,6 @@ Agar loyihani yaxshilash bo'yicha fikrlaringiz bo'lsa yoki yangi loyiha qo'shmoq
 Fork qiling.
 O'zgartirishlar kiriting va commit qiling.
 Pull request yuboring.
-📬 Aloqa
-Agar savolingiz bo'lsa yoki yordam kerak bo'lsa, quyidagi aloqa kanallari orqali murojaat qiling:
-
-Email: mr.abdukarim1@gmail.com
-Telegram: MrAbdukarimDev
 
 🌟 Fun fakt
 C++ dasturlash tili Bjarne Stroustrup tomonidan 1979-yilda yaratilgan va bugungi kunda eng keng qo'llaniladigan tillardan biri hisoblanadi.
