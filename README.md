@@ -22,15 +22,13 @@ Dastur kodini kompilyatsiya qiling:
 g++ main.cpp -o main
 Dastur faylini ishga tushiring:
 ./main
+
 🛠️ Talablar
 C++ kompilyatori (g++ yoki clang++ tavsiya etiladi)
 Terminal yoki buyruqlar satri muhiti
-📚 Foydalanilgan texnologiyalar
-C++ — umumiy maqsadli dasturlash tili
-Standard Template Library (STL) — massivlar va algoritmlar bilan ishlash
+
 🤝 Hissa qo'shish
 Agar loyihani yaxshilash bo'yicha fikrlaringiz bo'lsa yoki yangi loyiha qo'shmoqchi bo'lsangiz:
-
 Fork qiling.
 O'zgartirishlar kiriting va commit qiling.
 Pull request yuboring.
